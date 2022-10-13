@@ -9,4 +9,4 @@ tasks:
 #     onOpen: open-preview
 vscode:
   extensions:
-    - chenglou92.rescript-vscode
+    - https://github.com/rescript-lang/rescript-vscode/releases/download/latest-master/rescript-vscode-1.9.4.vsix
