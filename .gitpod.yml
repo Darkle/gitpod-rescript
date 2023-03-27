@@ -10,4 +10,4 @@ tasks:
 vscode:
   extensions:
     # need to link to .vsix as rescript-vscode extension is not in https://open-vsx.org/
-    - https://github.com/rescript-lang/rescript-vscode/releases/download/1.8.2/rescript-vscode-1.8.2.vsix
+    - https://github.com/rescript-lang/rescript-vscode/releases/download/1.16.0/rescript-vscode-1.16.0.vsix
